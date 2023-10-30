@@ -1,0 +1,11 @@
+C:\Users\ruzickat.04\source\repos\eeee\eeee\bin\Debug\eeee.exe.config
+C:\Users\ruzickat.04\source\repos\eeee\eeee\bin\Debug\eeee.exe
+C:\Users\ruzickat.04\source\repos\eeee\eeee\bin\Debug\eeee.pdb
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.csproj.AssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.Form1.resources
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.exe
+C:\Users\ruzickat.04\source\repos\eeee\eeee\obj\Debug\eeee.pdb
